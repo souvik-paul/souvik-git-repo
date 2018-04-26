@@ -1,3 +1,5 @@
 current date: 26-April-2018
 
-current time: 1:37 pm
+current time: 1:37 pm in local
+
+current time: 1:52 pm in remote
